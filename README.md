@@ -1,5 +1,4 @@
-<p align="center">![logocatole](https://user-images.githubusercontent.com/112203229/192604567-46c69328-093f-4349-bb83-b7c3b3496f37.png)
-</p>
+![logocatole](https://user-images.githubusercontent.com/112203229/192604567-46c69328-093f-4349-bb83-b7c3b3496f37.png)
 
 <h4 align="center"> 
     :thumbsup:  Project completed  :thumbsup:
