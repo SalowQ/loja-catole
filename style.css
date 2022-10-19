@@ -268,7 +268,7 @@ th, td {
     .caixa, .produtos{
         width: auto;
     }
-    .principal, .conteudo-beneficios, .mapa-conteudo, .video, form, table{
+    .conteudo-principal, .conteudo-beneficios, .conteudo-produtos, .mapa-conteudo, .video, form, table{
         width: auto;
         margin: 15px;
     }
@@ -277,10 +277,17 @@ th, td {
     }
     nav{
         position: static;
+        text-align: center;
+    }
+    nav a {
+        font-size: 15px;
     }
     .lista-beneficios, .imagem-beneficios, .produtos li{
         width: 90%;
         margin: 15px;
+    }
+    .enviar {
+        width: 70%;
     }
     
 }
